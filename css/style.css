@@ -37,3 +37,24 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* Skills section styling */
+
+#skillsContainer{
+    margin-top: 20px;
+}
+
+#skillsContainer h2 {
+    margin-bottom: 10px;
+}
+
+#skillsContainer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#skillsContainer li {
+    display: inline-block;
+    margin-right: 10px;
+}

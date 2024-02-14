@@ -15,3 +15,6 @@ includeHTML('about/about.html', 'aboutMeContainer');
 
 // Include content from contact.html
 includeHTML('contact/contact.html', 'contactMeContainer');
+
+// Include skills from skills.html
+includeHTML('skills/skills.html', 'skillsContainer');
